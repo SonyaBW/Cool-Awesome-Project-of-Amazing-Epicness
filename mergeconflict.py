@@ -1,1 +1,1 @@
-print("yabai")
+print("sugoi")
